@@ -1,0 +1,8 @@
+.container{
+    border: dotted; color: blue;
+}
+.content{
+    border: solid; color: blueviolet;
+    padding: 20px;
+    margin: 5%;
+}
